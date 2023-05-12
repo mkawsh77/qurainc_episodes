@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:qurainc_episodes/core.utiles/app_colors.dart';
-import 'package:qurainc_episodes/widegs/custome_container_follow_up.dart';
+
+import '../widgets/custome_container_follow_up.dart';
+//import 'package:qurainc_episodes/widegs/custome_container_follow_up.dart';
 
 class FollowUpStudent extends StatefulWidget {
   const FollowUpStudent({super.key});
